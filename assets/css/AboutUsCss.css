@@ -1,0 +1,44 @@
+.navbar-brand{
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 1.5rem;
+    color: #5f6368!important;
+}
+.container{
+    margin-top: 60px;
+}
+.container h1{
+    font-family: cursive;
+    display: block;
+    font-weight: bold;
+    margin: 20px;
+    text-align: center;
+}
+.container p{
+    font-family: cursive;
+    margin: 50px 3px;
+}
+#aboutImg{
+    margin: auto;
+    display: block;
+    border-radius: 12px;
+}
+footer{
+    background-color:  #f2e9e4;
+}
+
+.social-icons li{
+    list-style: none;
+    display: inline;
+    padding: 0.5rem;
+}
+
+.github{
+    color: #24292e;
+}
+
+.linkedin{
+    color: #0077b5;
+}
+.facebook{
+    color: blue;
+}
